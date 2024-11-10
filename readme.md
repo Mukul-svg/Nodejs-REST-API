@@ -49,7 +49,7 @@ GET /products?sortBy=price&order=desc
 ]
 ```
 
-![Screenshot of GET /products in Postman](Screenshots\1.png)
+![Screenshot of GET /products in Postman](Screenshots/1.png)
 
 ---
 
@@ -84,9 +84,9 @@ GET /products/1
     }
     ```
 Product Found -
-![Screenshot of GET /products/:id in Postman](Screenshots\2a.png)
+![Screenshot of GET /products/:id in Postman](Screenshots/2a.png)
 Product Not Found -
-![Screenshot of GET /products/:id in Postman](Screenshots\2b.png)
+![Screenshot of GET /products/:id in Postman](Screenshots/2b.png)
 ---
 
 ### 3. POST `/products`
@@ -127,9 +127,9 @@ Product Not Found -
     }
     ```
 Successful POST - 
-![Screenshot of POST /products in Postman](Screenshots\3.png)
+![Screenshot of POST /products in Postman](Screenshots/3.png)
 Inconsistent data type POST - 
-![Screenshot of POST /products in Postman](Screenshots\3a.png)
+![Screenshot of POST /products in Postman](Screenshots/3a.png)
 ---
 
 ### 4. PUT `/products/:id`
@@ -168,7 +168,7 @@ Inconsistent data type POST -
     }
     ```
 
-![Screenshot of PUT /products/:id in Postman](Screenshots\4.png)
+![Screenshot of PUT /products/:id in Postman](Screenshots/4.png)
 
 ---
 
@@ -193,13 +193,13 @@ Inconsistent data type POST -
     }
     ```
 Products before deletion -
-![Screenshot of DELETE /products/:id in Postman](Screenshots\5a.png)
+![Screenshot of DELETE /products/:id in Postman](Screenshots/5a.png)
 
 Deletion -
-![Screenshot of DELETE /products/:id in Postman](Screenshots\5b.png)
+![Screenshot of DELETE /products/:id in Postman](Screenshots/5b.png)
 
 Product after deletion
-![Screenshot of DELETE /products/:id in Postman](Screenshots\5c.png)
+![Screenshot of DELETE /products/:id in Postman](Screenshots/5c.png)
 
 ---
 
