@@ -25,7 +25,7 @@ let products = [{
 },
 {
     "id": 3,
-    "name": "Product 1",
+    "name": "Product 3",
     "description": "This is a sample product number 3",
     "price": 101,
     "quantity": 88

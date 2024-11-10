@@ -48,9 +48,11 @@ GET /products?sortBy=price&order=desc
     ...
 ]
 ```
-
+Normal GET request -
 ![Screenshot of GET /products in Postman](Screenshots/1.png)
 
+GET request with sorting -
+![Screenshot of GET /products in Postman](Screenshots/1a.png)
 ---
 
 ### 2. GET `/products/:id`
